@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+body{
+    background-color: #2C3639;
+}
+
+.row{
+    margin-top: 40px;
+}
+
+img{
+    border-radius: 2rem;
+    height: 300px;
+    width: 500px;
+}
+
+.promo-title{
+    font-family: 'Gloock', serif;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: 4rem;
+    color: #DCD7C9;
+}
+
+.title{
+    font-family: 'Gloock', serif;
+    margin-top: 40px;
+    margin-bottom: 12px;
+    font-size: 36px;
+    color: #DCD7C9;
+}
+
+p{
+    font-family: 'Asap', sans-serif;
+    color: #DCD7C9;
+}
+
+hr{
+    border-top: 3px solid #DCD7C9;
+    width: 200px;
+    margin-bottom: 40px;
+}
+
+#life{
+    padding: 40px 0px;
+}
+
+.footer-title{
+    font-family: 'Gloock', serif;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 36px;
+    color: #DCD7C9;
+}
